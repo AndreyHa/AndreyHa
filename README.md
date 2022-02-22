@@ -5,5 +5,5 @@
 - 👀 I'm looking for interesting part-time job now
 - 📫 How to reach me:
 - Telegram: @Andrew_Klygin 
-- Gmail: Andrew.Klygin.dev@gmail.com 
+- Gmail: gfka63@gmail.com 
 - Discord: fanta#5879
