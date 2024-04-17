@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👋 I’m Andrew, full stack developer
 - 👨‍💻 I’m currently working on rent dota account service
+- 😴 I'm not looking for a job
 - 👀 Try out my npm package: https://www.npmjs.com/package/improved-logging
 - 📫 How to reach me:
 - Telegram: @Andrew_Klygin 
