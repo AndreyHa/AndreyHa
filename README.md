@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 I’m Andrew, full stack ts & c++ developer
+- 👋 I’m Andrew, middle c++ / typescript developer
 - 👨‍💻 I’m currently working on rent dota account service
 - 😴 I'm not looking for a job
 - 📫 How to reach me:
